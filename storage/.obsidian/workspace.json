@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "5972f04a68e0f654",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f38ede0363fc1bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d124bcfe2c71eb3e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c9466706d459c982",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Как создать приложение ларавел. Laravel startup..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5f79efa8ce3ffdd2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b12eb8731fff67ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aed2a387759ef55e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a2ecb01738c6976e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "создать прило",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "02c86fdeb0d31865",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bde6b874613502a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "59fc1b98a4faf8c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ea0a8d17c33c755",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Как создать приложение ларавел. Laravel startup..md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eff46b6e35e4d9fc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Как создать приложение ларавел. Laravel startup..md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "951d0f5f70295bdc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "58d80bb49d06f215",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Как создать приложение ларавел. Laravel startup..md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a2ecb01738c6976e",
+  "lastOpenFiles": [
+    "Как создать приложение ларавел. Laravel startup..md"
+  ]
+}
