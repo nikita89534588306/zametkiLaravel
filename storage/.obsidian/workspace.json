@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8f38ede0363fc1bd",
+        "id": "30a61964f6756f06",
         "type": "tabs",
         "children": [
           {
-            "id": "d124bcfe2c71eb3e",
+            "id": "04d7e3793e4c81f6",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "c9466706d459c982",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Как создать приложение ларавел. Laravel startup..md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "создать прило",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Как создать приложение ларавел. Laravel startup..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Как создать приложение ларавел. Laravel startup..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Как создать приложение ларавел. Laravel startup..md"
-              }
+              "state": {}
             }
           }
         ]
@@ -156,8 +138,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2ecb01738c6976e",
+  "active": "04d7e3793e4c81f6",
   "lastOpenFiles": [
-    "Как создать приложение ларавел. Laravel startup..md"
+    "тестирование/Как создать фабрику Ларавел..md",
+    "тестирование/Как создать сиды в ларавел. Куда подключить seed laravel..md",
+    "тестирование/фейкер. как создать фейковые данные. faker php, работа с фейковыми данными..md",
+    "тестирование/Как изменить локализацию faker. Фейкер на русском..md",
+    "Как создать приложение ларавел. Laravel startup..md",
+    "тестирование/Pasted image 20230525113109.png",
+    "работа с базой данных/Как создать модель ларавел. Модель, фабрика, миграция одной командой Laravel..md",
+    "тестирование",
+    "работа с базой данных",
+    "Untitled.canvas",
+    "2023-05-25.md"
   ]
 }
